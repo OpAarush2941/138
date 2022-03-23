@@ -1,0 +1,14 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.title{
+    display: inline;
+}
+.ins{
+    border: 1px solid white;
+    float: right;
+}
+#start,#status{
+    font-size: 22px;
+}
